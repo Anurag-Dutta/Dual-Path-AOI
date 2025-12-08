@@ -1,5 +1,0 @@
-These experts are for map reconstruction.
-Although these are not considered in the
-research, the experts and their imp. are
-hereby open-sourced to encourage future
-research. 
